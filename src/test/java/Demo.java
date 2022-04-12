@@ -9,6 +9,7 @@ public class Demo {
    System.out.println("Hello Git");
 		Demo d=new Demo();
 		d.m1();
+		System.out.println("i am imported project from github");
 	}
 
 }
