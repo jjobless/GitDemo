@@ -7,6 +7,9 @@ public class Demo {
 	public void m2() {
 		System.out.println("Method m2");	
 		}
+	public void m() {
+		System.out.println("Method m");	
+		}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
    System.out.println("Hello Git");
